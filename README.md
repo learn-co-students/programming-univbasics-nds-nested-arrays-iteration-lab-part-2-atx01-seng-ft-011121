@@ -1,4 +1,4 @@
-# Nested Data Structures: Mapping Data Lab
+ # Nested Data Structures: Mapping Data Lab
 
 ## Introduction
 
